@@ -1,8 +1,10 @@
 package exercicio_github;
-
 import java.util.Random;
 import java.util.Scanner;
-
+/*faça um programa que cria uma matriz 10x10, calcule
+o maior e o menor numero de determinada linha e 
+determinada coluna de acordo com a opção do usuario
+*/
 public class Calcular {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
